@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleParser</string>
+    <string name="user">UserId:</string>
+    <string name="id">Id:</string>
+    <string name="title">Title: </string>
+    <string name="body">Body:</string>
+</resources>
